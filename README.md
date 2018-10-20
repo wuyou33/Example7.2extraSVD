@@ -10,5 +10,5 @@ These two codes should be used with the codes of Chapter 7 of the celebrated boo
 
 # Procedure:
 1. Download Chapter 7 codes from the book web: www.wiley.com/go/kalmanfiltering.
-2. Download our codes and copy to all of them into one directory.
+2. Download our codes and copy all codes into one directory.
 3. Run the file shooutout_extra and see the obtained results.
