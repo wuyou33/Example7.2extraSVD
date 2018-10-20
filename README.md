@@ -5,6 +5,7 @@ These two codes should be used with the codes of Chapter 7 of the celebrated boo
 
 # References:
 [1] Grewal M.S., Andrews A.P. "Kalman Filtering Theory and Practice Using MATLAB", Fourth Edition, Wiley & Sons, 2015.
+
 [2] Kulikova M.V., Tsyganova J.V. (2017) "Improved discrete-time Kalman filtering within singular value decomposition",  IET Control Theory & Applications, 11(15): 2412-2418.
 
 # Procedure:
